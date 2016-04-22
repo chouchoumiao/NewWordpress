@@ -86,7 +86,7 @@ define('WP_DEBUG', true);
  */
 define('WP_ZH_CN_ICP_NUM', true);
 
-define(‘AUTOSAVE_INTERVAL’, 37200);//文章不进行自动保存 wujiayu
+define('AUTOSAVE_INTERVAL', 37200);//文章不进行自动保存 wujiayu
 
 /* 好了！请不要再继续编辑。请保存本文件。使用愉快！ */
 
